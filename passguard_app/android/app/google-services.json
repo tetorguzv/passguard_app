@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641800327655",
+    "project_id": "passguard-6e3b3",
+    "storage_bucket": "passguard-6e3b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641800327655:android:34d4192817297bd8282d42",
+        "android_client_info": {
+          "package_name": "com.example.passguard_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndohTwWvzv7IP-fvKvB0iPMQVBDWzC64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
